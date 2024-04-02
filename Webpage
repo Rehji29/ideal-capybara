@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html  lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>CSS SOLUTIONS</title>
+        <link rel="stylesheet" href="styles.css">
+        <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+      />
+    <style>
+    </style>
+    </head>
+    <body>
+<div class="frame-1">
+  <br> <br><br>
+  <div class="frame-3">
+  <div class="rectangle-4">
+<div class="css-solutions-2">
+      <p  class="animate__animated animate__fadeInUp">CSS SOLUTIONS</p><br>
+    </div>
+    </div>
+        <button class="group-5 animate__fadeInDown">Get Started</button> 
+  </div>
+</div>
+    <div id="navbar" class="frame-2 sticky">
+      <div class="group-2">
+        <div class="container">
+          <a href="#" class="rectangle-1">    </a>
+        </div>
+        <p class="css-solutions">CSS SOLUTIONS</p>
+      </div>
+      <div class="container-3">
+        <div class="group-3">
+            <a href="#" class="home">Home</a>
+            <a href="#" class="home">Products</a>
+            <a href="#" class="home">About Us</a>
+            <a href="#" class="home">Services</a>
+        </div>
+        <div >
+            <input class="search-input" placeholder="Search..." type="text"/>
+        </div>
+        </div>
+      </div>
+    </div>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br>
+    <div class="main-content">
+      <div class="margin">
+    <h1 style="text-align: left">Common IT Support &amp; Computer Repair Services</h1>
+    <p>Computers have permeated every aspect of our life in the current, fast-paced digital environment. For efficient everyday operations and business transactions, computers are a must in every industry. We largely depend on technology to stay connected, be productive, and pursue our digital aspirations, from personal laptops to workplace networks. However, computers occasionally experience hitches and malfunctions, just like any other piece of machinery, which can be frustrating and impede our work.</p>
+    <p>IT support and computer repair services can help in this situation. Experienced computer experts can solve your technological problems and get your machines working again, whether you're an individual with a laptop that runs slowly or a business with network problems.
+    <p>A computer problem or issue disturbs the whole course of a business that’s why businesses need to have their computer serviced at a moment’s notice. Every industry always needs fast and reliable computer repair services.
+    <p>To choose the best solution for your particular problem, it is advised that every business and IT professional be knowledgeable about computer issues and the many computer services required to address them.</p>
+    </p>
+    </p>
+    <h1 style="text-align: left;">Types of computer repair services</h1>
+    <br>
+    <a href="#" class="linkinbody"><h2>Hardware Services</h2></a>
+    <p>Hardware services refer to a range of services related to computer and IT hardware. These services are typically offered by IT professionals or technology companies and are aimed at ensuring the proper functioning, maintenance, repair, and optimization of hardware components and devices.</p>
+    <br>
+    <a href="file:///C:/Users/user/Desktop/CODING/New%20folder/webpage2.html" class="linkinbody"><h2>Software Services</h2></a>
+    <p>Software services, also known as software-related services or software solutions, refer to a wide range of services and support provided by professionals or companies to help plan, develop, deploy, maintain, and optimize software applications and systems. </p>
+    <br>
+    <a href="file:///C:/Users/user/Desktop/CODING/New%20folder/webpage3.html" class="linkinbody"><h2>Data Recovery and Back-up</h2></a>
+    <p>Data recovery is the process of restoring lost or deleted information from a computer's hard drive, flash drive, or other storage media. Your crucial data may occasionally be lost as a result of problems like device failures or viruses. You might not be able to recover the data, but qualified computer professionals can do so by collecting data. You must pick a trustworthy and knowledgeable computer specialist because this is a very delicate matter. Hiring a novice technician could result in the permanent loss of important data.</p>
+      <br>
+      <a href="file:///C:/Users/user/Desktop/CODING/New%20folder/webpage.html" class="linkinbody"><h2>Computer Maintenance and Upgrade Services</h2></a>
+    <p>Regular maintenance duties include cleaning the computer's hardware parts, enhancing performance, upgrading hardware or software to increase functionality, clearing out files, installing new windows or programs, and doing general inspections.</p>
+    <p> Also refer to a range of professional services offered to individuals and businesses to ensure that their computer systems are running smoothly, efficiently, and securely. These services can encompass both hardware and software aspects of computer systems.</p>
+</div>
+</div>
+</div>
+<br>
+<div class="b4footer">
+<div class="company">
+<div class="margin1">
+<h3>Company Overview</h3>
+<p>We, The CSS solution focus on delivering the best computer repair services in anywhere in Talisay</p>
+<p>Our friendly trained specialists know their stuff and can diagnose and repair any computer issue quickly and professionally. We offer remote and on-site repair services to ensure you receive support whenever you need it. No computer problem is big or too small for us. Contact us today to experience world-class service.</p>
+</div>
+</div>
+<div class="contact">
+<div class="margin2">
+<h1>Contact Us</h1>
+<p>Email: CSS-SOLUTION@gmail.com</p>
+<p>Phone: 0912 345 6789</p>
+<p>Facebook: <a href="https://web.facebook.com/profile.php?id=100095579889760" style="text-decoration: none; color: whitesmoke;">CSS SOLUTIONS</a></p>
+</div>
+</div>
+</div>
+<div class="footer">
+<p>Copyright &copy;2023|All Rights Reserved</p>
+</div>
+</div>
+ <script>
+window.onscroll = function() {myFunction()};
+
+var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+  </script>
+  </body>
+  </html>
